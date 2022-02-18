@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<!-- proposal for a standardised readme-file with with searchable content  -->
+<doert>
+	<project name="sfb143">
+		<subproject name="thiodelafossites">
+		<!-- comments on thiodelafossites: what is it all about...  -->
+			<system name="kcese2">
+			<!-- comments on kcese2: highly desirable materila with most unique properties   -->
+				<sample ID="td_d338">					
+					<synthesis>
+						<date>2020-07-06</date>
+						<synthesis_procedure>From bmimcl/AlCl3 at 170°C, washed w. MeOH, filtered, dry oven 90° overnight.</synthesis_procedure>
+					</synthesis>
+					
+					<analytics>
+						<pxrd id="td_d338">
+							<date>2020-07-06</date>
+							<pxrd_description> phase pure acc. to PDF ##...</pxrd_description>
+						</pxrd>
+						
+						<uv_vis>n/a</uv_vis>
+						
+						<scxrd id="td_d338_k2">
+							<date>2020-07-06</date>
+							<description>R-3m, a=407.1 pm, c=1831.2 pm</description>
+						</scxrd>
+						<sem id="td_d338">
+							<date>2020-07-06</date>					
+						<description>hex. plates, smooth surfaces, EDX: 26(1)/25(1)/49(1) at % K/Ce/Se pm</description>
+						</sem>
+					</analytics>
+					
+					<collaboration>few sc to W. Schnelle, magnetization, 2 g powder R. Sakar muSR</collaboration>
+				</sample>
+				
+				<sample id="ec_holi123">					
+					<synthesis>
+						<date>2020-07-06</date>
+						<synthesis_procedure>From bmimcl/AlCl3 at 170°C, washed w. MeOH, filtered, dry oven 90° overnight.</synthesis_procedure>
+					</synthesis>
+					
+					<analytics>
+						<pxrd id="td_d338">
+							<date>2020-07-06</date>
+							<pxrd_description> phase pure acc. to PDF ##...</pxrd_description>
+						</pxrd>
+						
+						<uv_vis>n/a</uv_vis>
+						
+						<scxrd id="td_d338_k2">
+							<date>2020-07-06</date>
+							<description>R-3m, a=407.1 pm, c=1831.2 pm</description>
+						</scxrd>
+						<sem id="td_d338">
+							<date>2020-07-06</date>					
+						<description>hex. plates, smooth surfaces, EDX: 26(1)/25(1)/49(1) at % K/Ce/Se pm</description>
+						</sem>
+					</analytics>
+					
+					<collaboration>few sc to W. Schnelle, magnetization, 2 g powder R. Sakar muSR</collaboration>
+				</sample>			
+			</system>	
+		</subproject>
+	</project>
+</doert>

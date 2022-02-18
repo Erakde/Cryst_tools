@@ -1,0 +1,21 @@
+Bugs Report
+
+20200807
+[DONE]Experiment name does not accept _ (underscore).
+
+
+
+
+Desirable Features
+
+20200807
+
+Add "Device" as option in experiment.
+
+Define in the work gropu seminar keywords which have to be recoreded for every sample modify procedure afterwards.
+
+Add more caracters/comments (like "others") to procedure.
+
+modify procedure afterwards
+
+add option to "find" multiple keywords e.g. "thermal treament"

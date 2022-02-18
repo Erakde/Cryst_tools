@@ -1,0 +1,4 @@
+PATH=../example_files
+#Write a custom PATH in the FIRST LINE of this file.
+#Example for custom PATH:
+#PATH = D:/Experiments/Systems/text_files

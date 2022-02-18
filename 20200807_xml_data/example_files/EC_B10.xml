@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sample ID="EC_B10">
+	<aim>asd</aim>
+	<synthesis>
+		<date>asd</date>
+		<procedure>ads</procedure>
+	</synthesis>
+	<analytics>
+		<pxrd ID="ASD">
+			<date>dsa</date>
+			<description>asd</description>
+		</pxrd>
+	</analytics>
+</sample>
